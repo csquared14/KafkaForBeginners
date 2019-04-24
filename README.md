@@ -1,3 +1,3 @@
-# Kafka Twitter Turorial Follow Allong
+# Learning Kafka - Following allong tutorials
 
-I followed the Kafka Twitter Producer and Advanced Config tutorial from Apache Kafka Series - Learn Apache Kafka for Beginners Stéphane Maarek
+Following allong tutorials from Advanced Config tutorial from Apache Kafka Series - Learn Apache Kafka for Beginners Stéphane Maarek
