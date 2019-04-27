@@ -1,0 +1,1 @@
+This is where I added the kafkaf-connect-twitter jars located at https://github.com/jcustenborder/kafka-connect-twitter
